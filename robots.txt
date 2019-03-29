@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vopeithoh.stat545.com/sitemap.xml
